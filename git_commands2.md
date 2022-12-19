@@ -8,6 +8,8 @@
 * `git commit --amend -m' '` - Change last commit message
 * `git status` - Check current status
 * `git log` - Show all commits of current branch
+* `git log --all` - Show all commits of repository
+* `git log --all --oneline --graph` - Show all commits of repository and/or show commits shortly all in a row and/or show all commits with praph
 * `git checkout` - return to one of other file version or/and other branch
 * `git checkout -b <new_branch>` - create a new branch and move you there
 * `git diff` - show differents between current file condition and last commit
