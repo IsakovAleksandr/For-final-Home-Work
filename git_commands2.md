@@ -21,3 +21,4 @@
 * `git branch -D branch_name` - delete the branch any way
 * `clear` - clear the terminal
 * `git clone` - copy other repository from cloud server
+* `git push` - share local repository with cloud server (GitHub or Other)
